@@ -230,6 +230,7 @@ h1 {
     grid-template-columns: repeat(2, 1fr);
     gap: 20px;
     flex: 1;
+    justify-content: center;
 }
 .card {
     background-color: white;
@@ -238,6 +239,7 @@ h1 {
     padding: 20px;
     text-align: center;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    justify-content: center;
 }
 .card img {
     width: 50px;
@@ -259,6 +261,7 @@ h1 {
     flex: 5;
     height: 80vh;
     margin-top: 90px;
+    justify-content: center;
 }
 .quote-form h2 {
     margin-top: 30;
